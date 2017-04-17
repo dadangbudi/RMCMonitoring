@@ -1,0 +1,8 @@
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\obj\Debug\LabelPrintMesMon.frmMain.resources
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\obj\Debug\LabelPrintMesMon.Properties.Resources.resources
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\obj\Debug\LabelPrintMesMon.csproj.GenerateResource.Cache
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\bin\Debug\LabelPrintMesMon.exe
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\bin\Debug\LabelPrintMesMon.pdb
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\obj\Debug\LabelPrintMesMon.exe
+C:\Users\ddng\Documents\Visual Studio 2008\Projects\LabelPrintMesMon\LabelPrintMesMon\obj\Debug\LabelPrintMesMon.pdb
